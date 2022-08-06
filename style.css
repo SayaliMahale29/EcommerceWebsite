@@ -1,0 +1,9 @@
+*{
+  scroll-behavior: smooth;
+}
+h6{
+  color: black;
+}
+nav{
+    position: fixed;
+}
